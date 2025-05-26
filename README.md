@@ -31,7 +31,7 @@ Features:
 Option to sign up using Google/LinkedIn
 Role-based dashboard redirection
 
-Status: 🔴 To Do
+Status: 🔴 To Do <br>
 Assigned to: Backend + Frontend
 
 ---
@@ -52,7 +52,7 @@ Bonus:
 * Alert system: Notify when new jobs match preferences
 * Weekly digest email for saved searches
 
-Status: 🔴 To Do
+Status: 🔴 To Do<br>
 Assigned to: Backend + Frontend
 
 ---
@@ -67,7 +67,7 @@ Features:
 * Direct links to external applications
 * Tags for filters: virtual, paid, tech, women-focused, etc.
 
-Status: 🟡 In Progress
+Status: 🟡 In Progress<br>
 Assigned to: Content + Frontend
 
 ---
@@ -83,7 +83,7 @@ Features:
 * Upvote, comment, notifications
 * Each Jar has rules, moderators, pinned messages
 
-Status: 🔴 To Do
+Status: 🔴 To Do<br>
 Assigned to: Backend + Frontend + Moderation Team
 
 ---
@@ -97,7 +97,7 @@ Assigned to: Backend + Frontend + Moderation Team
 * Comparison table
 * Special plans for universities/orgs
 
-Status: 🛑To Done
+Status: 🛑To Done<br>
 Assigned to: Design + Content
 
 ---
@@ -112,7 +112,7 @@ Features:
 * Company values section (cards)
 * Employee benefits overview
 
-Status: 🛑 To Done
+Status: 🛑 To Done<br>
 Assigned to: HR + Design + Dev
 
 ---
@@ -132,7 +132,7 @@ Assigned to: HR + Design + Dev
 * Job/program management
 * Moderate community
 
-Status: 🔴 To Do
+Status: 🔴 To Do<br>
 Assigned to: Backend + Frontend
 
 ---
@@ -147,7 +147,7 @@ Types:
 * Email reminders
 * SMS alerts (optional)
 
-Status: 🔴 To Do
+Status: 🔴 To Do <br>
 Assigned to: Backend + DevOps
 
 ---
@@ -160,7 +160,7 @@ Assigned to: Backend + DevOps
 * Collect feedback via Typeform or Google Forms
 * Improve based on bug reports, UI feedback
 
-**Status: 🔴 To Do
+**Status: 🔴 To Do <br>
 Assigned to: QA + Design + Dev
 
 ---
