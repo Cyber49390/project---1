@@ -12,7 +12,7 @@ Sections to Include:
 * Success stories (Shriya, Raunak)
 * CTA buttons: “Get Started”, “Join Eerly”, “Explore Jobs”
 
-Status: 🟡 In Progress
+Status: 🟡 In Progress<br>
 Assigned to: Design + Frontend
 
 ---
